@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "label": "Main navigation",
+    "home": "Home",
+    "features": "Features",
+    "how": "How it works",
+    "demo": "Live demo",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "cta": "Start free trial",
+    "language": "Language"
+  },
+  "form": {
+    "name": "Your name",
+    "email": "Work email",
+    "namePlaceholder": "Sara Ahmed",
+    "emailPlaceholder": "sara@company.com",
+    "submit": "Start free trial",
+    "success": "Thanks, your trial request was received. Check your inbox for the next step.",
+    "errors": {
+      "name": "Please enter your name.",
+      "email": "Please enter a valid email address."
+    }
+  },
+  "footer": {
+    "navLabel": "Footer navigation",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "cookies": "Cookie policy",
+    "privacyText": "This is a demo privacy notice. We collect only the name and email you enter in the form above, and we use them only to set up your trial. We do not sell personal data.",
+    "termsText": "This is a demo terms notice. The trial is free for 14 days. You can cancel at any time from your account settings. Paid plans are billed per user, per month.",
+    "cookiesText": "This site stores a small choice on your device to remember your language and your consent. No tracking cookies are used in this demo.",
+    "tagline": "Build your website today, no code needed.",
+    "rights": "© 2026 Siteforge. All rights reserved. Demo landing page, sample content only."
+  },
+  "misc": {
+    "skip": "Skip to content",
+    "menu": "Open menu",
+    "close": "Close",
+    "backHome": "Back to home",
+    "notFoundTitle": "This page does not exist",
+    "notFoundText": "The link you followed may be broken, or the page may have moved.",
+    "cookieText": "We use cookies only to remember your language and your choices on this page.",
+    "cookieAccept": "Accept",
+    "cookieDecline": "Decline"
+  },
+  "hero": {
+    "badge": "Built for small businesses, creators and freelancers",
+    "title": "A website you can build yourself,",
+    "titleAccent": "in an afternoon",
+    "subtitle": "Siteforge gives you drag and drop blocks, ready made templates and one click publishing, so you can launch without a developer.",
+    "cta": "Start building free",
+    "secondary": "See how it works",
+    "proof1": "Free 14 day trial",
+    "proof2": "No credit card required",
+    "visualTitle": "Sample site preview",
+    "visualCaption": "Sample data shown for illustration only.",
+    "visualCards": [
+      {
+        "label": "Pages published",
+        "value": "5",
+        "note": "Home, menu, about, gallery, contact"
+      },
+      {
+        "label": "Visitors this week",
+        "value": "1,184",
+        "note": "Mostly from search and social"
+      },
+      {
+        "label": "Form replies",
+        "value": "23",
+        "note": "Three are new catering requests"
+      }
+    ]
+  },
+  "logos": {
+    "label": "Sample sites built with Siteforge",
+    "items": [
+      {
+        "name": "Bloom Bakery"
+      },
+      {
+        "name": "North Studio Yoga"
+      },
+      {
+        "name": "Harbor Dental"
+      },
+      {
+        "name": "Atlas Photo"
+      },
+      {
+        "name": "Fern Florist"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "A builder that stays out of your way",
+    "subtitle": "You bring the words and photos. Siteforge handles the layout, the mobile view and the launch.",
+    "items": [
+      {
+        "icon": "SquaresFour",
+        "title": "Drag and drop that feels direct",
+        "text": "Pick a block, drop it where you want it, and see the page change right away."
+      },
+      {
+        "icon": "Layout",
+        "title": "Templates made for real businesses",
+        "text": "Start from a bakery, a studio, a clinic or a portfolio, not a blank page."
+      },
+      {
+        "icon": "DeviceMobile",
+        "title": "Mobile ready from the first block",
+        "text": "Every template adapts to phones automatically. Preview the mobile view before you publish."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Publish in one click",
+        "text": "Your site goes live on a Siteforge address, with hosting and security included."
+      }
+    ]
+  },
+  "how": {
+    "title": "From idea to live site in three steps",
+    "subtitle": "No code, no designer, no waiting for a quote.",
+    "steps": [
+      {
+        "title": "Pick a template",
+        "text": "Choose a starting point that looks like your business."
+      },
+      {
+        "title": "Make it yours",
+        "text": "Swap in your words, photos and colors with drag and drop blocks."
+      },
+      {
+        "title": "Publish it",
+        "text": "One click puts your site online. Change anything later and republish."
+      }
+    ]
+  },
+  "tagline": "Your idea deserves a home on the web. Build it yourself and publish it today.",
+  "demo": {
+    "title": "Try the builder",
+    "subtitle": "Drag blocks onto the canvas, or tap the plus button to add one. Switch between desktop and mobile views, then publish your sample page.",
+    "boardTitle": "Page builder",
+    "deviceLabel": "Preview device",
+    "desktop": "Desktop",
+    "mobile": "Mobile",
+    "paletteLabel": "Blocks",
+    "paletteHint": "Drag a block onto the canvas, or tap plus to add it.",
+    "addBlock": "Add block",
+    "publish": "Publish page",
+    "clear": "Clear page",
+    "publishedMessage": "Sample page published to a demo address. This is a demo, so nothing went live.",
+    "canvasLabel": "Your page",
+    "empty": "Your page is empty. Drag a block here to begin.",
+    "remove": "Remove block",
+    "note": "Sample builder. Your real pages live in your Siteforge account after signup.",
+    "blocks": [
+      {
+        "type": "hero",
+        "label": "Hero heading"
+      },
+      {
+        "type": "text",
+        "label": "Text paragraph"
+      },
+      {
+        "type": "image",
+        "label": "Image banner"
+      },
+      {
+        "type": "button",
+        "label": "Call to action button"
+      },
+      {
+        "type": "form",
+        "label": "Contact form"
+      }
+    ],
+    "starter": [
+      {
+        "type": "hero",
+        "label": "Welcome to Bloom Bakery"
+      },
+      {
+        "type": "text",
+        "label": "Fresh bread every morning, baked in small batches since 2019."
+      },
+      {
+        "type": "button",
+        "label": "See the menu"
+      }
+    ]
+  },
+  "social": {
+    "label": "Sample stories from demo accounts",
+    "title": "What new site owners say",
+    "items": [
+      {
+        "quote": "I built the bakery site on a Sunday and took three catering orders that week.",
+        "name": "Hana Idris",
+        "role": "Owner, Bloom Bakery"
+      },
+      {
+        "quote": "The mobile preview saved me. My clients book from their phones, and it just worked.",
+        "name": "Marta Klein",
+        "role": "Yoga teacher, North Studio Yoga"
+      },
+      {
+        "quote": "No developer, no monthly invoice from an agency. I change the prices myself now.",
+        "name": "Felix Braun",
+        "role": "Owner, Fern Florist"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "One site, one simple price",
+    "subtitle": "Every plan includes hosting, security and a Siteforge address.",
+    "popular": "Most popular",
+    "cta": "Start building free",
+    "note": "Prices are placeholders until final pricing is set. All plans include the 14 day free trial.",
+    "tiers": [
+      {
+        "name": "Starter",
+        "price": "{{starterPrice}}",
+        "period": "per month, one site",
+        "features": [
+          "One website",
+          "Ready templates",
+          "Siteforge address"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "{{growthPrice}}",
+        "period": "per month, up to 3 sites",
+        "features": [
+          "Everything in Starter",
+          "Custom domain",
+          "Contact forms",
+          "Basic site stats"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": "{{businessPrice}}",
+        "period": "per month, up to 10 sites",
+        "features": [
+          "Everything in Growth",
+          "Online store blocks",
+          "Remove Siteforge badge",
+          "Priority support"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "How long is the free trial?",
+        "a": "The trial lasts 14 days and includes all Growth features. You do not need a credit card to start it."
+      },
+      {
+        "q": "Do I need to know code?",
+        "a": "No. Everything is drag and drop. If you can write a document, you can build a page."
+      },
+      {
+        "q": "Can I use my own domain?",
+        "a": "Yes. Growth plans connect a domain you already own, with setup help in the dashboard."
+      },
+      {
+        "q": "Will my site look good on phones?",
+        "a": "Yes. Every template is responsive. Use the mobile preview in the builder to check before you publish."
+      },
+      {
+        "q": "Can I sell things on my site?",
+        "a": "Yes. Business plans add store blocks for products, prices and checkout links."
+      },
+      {
+        "q": "What happens to my site if I cancel?",
+        "a": "Your site stays online until the end of the paid period, and you can export your content at any time."
+      },
+      {
+        "q": "Is Siteforge available in Arabic?",
+        "a": "Yes. The builder and your published site can both be fully bilingual, Arabic and English, including right to left layout."
+      },
+      {
+        "q": "Can I move my site later?",
+        "a": "Yes. Export your pages and media whenever you like. Your content is yours."
+      }
+    ]
+  },
+  "final": {
+    "title": "Your website is one afternoon away",
+    "subtitle": "Pick a template, make it yours, and publish it today.",
+    "note": "Free 14 day trial · No credit card required · Cancel anytime"
+  }
+}
